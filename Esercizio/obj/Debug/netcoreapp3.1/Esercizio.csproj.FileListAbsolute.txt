@@ -1,0 +1,13 @@
+E:\4F\Esercizio\obj\Debug\netcoreapp3.1\Esercizio.csproj.AssemblyReference.cache
+E:\4F\Esercizio\obj\Debug\netcoreapp3.1\Esercizio.AssemblyInfoInputs.cache
+E:\4F\Esercizio\obj\Debug\netcoreapp3.1\Esercizio.AssemblyInfo.cs
+E:\4F\Esercizio\obj\Debug\netcoreapp3.1\Esercizio.csproj.CoreCompileInputs.cache
+E:\4F\Esercizio\bin\Debug\netcoreapp3.1\Esercizio.exe
+E:\4F\Esercizio\bin\Debug\netcoreapp3.1\Esercizio.deps.json
+E:\4F\Esercizio\bin\Debug\netcoreapp3.1\Esercizio.runtimeconfig.json
+E:\4F\Esercizio\bin\Debug\netcoreapp3.1\Esercizio.runtimeconfig.dev.json
+E:\4F\Esercizio\bin\Debug\netcoreapp3.1\Esercizio.dll
+E:\4F\Esercizio\bin\Debug\netcoreapp3.1\Esercizio.pdb
+E:\4F\Esercizio\obj\Debug\netcoreapp3.1\Esercizio.dll
+E:\4F\Esercizio\obj\Debug\netcoreapp3.1\Esercizio.pdb
+E:\4F\Esercizio\obj\Debug\netcoreapp3.1\Esercizio.genruntimeconfig.cache
